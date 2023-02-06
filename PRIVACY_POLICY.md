@@ -15,7 +15,7 @@ Davao Commuters Guide takes your privacy seriously. To better protect your priva
 ## Collection of Routine Information
 
 
-Davao Commuters Guide do not track basic information about their users. 
+Davao Commuters Guide do not track any information about their users. 
 
 
 
